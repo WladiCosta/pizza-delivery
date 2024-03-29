@@ -18,6 +18,9 @@ const HomeMenu = () => {
             <h3 className='uppercase text-gray-400 font-semibold leading-4'>Finalizar Pedido</h3>
             <h2 className='text-4xl text-primary font-bold italic'>Cardápio</h2>
         </div>
+        <div>
+            
+        </div>
     </section>
   )
 }
