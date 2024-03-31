@@ -27,7 +27,7 @@ const Hero = () => {
         <div className='relative hidden sm:block'>
             <Image 
             src={"/pizza.png"} 
-            alt={"pizza"} 
+            alt='pizza' 
             layout={'fill'} 
             objectFit={'contain'} />
         </div>
